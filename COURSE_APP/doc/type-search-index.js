@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.javabrains","l":"CourseApiDataApplication"},{"p":"io.javabrains.springbootstarter.topic","l":"Topic"},{"p":"io.javabrains.springbootstarter.topic","l":"TopiController"},{"p":"io.javabrains.springbootstarter.topic","l":"TopicService"}];updateSearchResults();
